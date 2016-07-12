@@ -9,3 +9,5 @@ F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\WiFi Hotspot Assistant\WiFi Hotspo
 F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\WiFi Hotspot Assistant\WiFi Hotspot Assistant\obj\Debug\WiFi Hotspot Assistant.exe
 F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\WiFi Hotspot Assistant\WiFi Hotspot Assistant\obj\Debug\WiFi Hotspot Assistant.xml
 F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\WiFi Hotspot Assistant\WiFi Hotspot Assistant\obj\Debug\WiFi Hotspot Assistant.pdb
+C:\Users\UVDev\Source\Repos\Wifi-Hostpot-Assistant\WiFi Hotspot Assistant\bin\Debug\WiFi Hotspot Assistant.exe.config
+C:\Users\UVDev\Source\Repos\Wifi-Hostpot-Assistant\WiFi Hotspot Assistant\obj\Debug\WiFi Hotspot Assistant.xml

@@ -26,4 +26,8 @@
         Dim result As String = System.IO.File.ReadAllText("log.txt")
         NotifyIcon1.ShowBalloonTip(1000, "Wifi Hotspot Assistant", result, ToolTipIcon.Info)
     End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class

@@ -76,7 +76,7 @@ Partial Class Form1
         Me.txt_pass.DataBindings.Add(New System.Windows.Forms.Binding("Text", Global.WiFi_Hotspot_Assistant.My.MySettings.Default, "pass", True, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged))
         Me.txt_pass.Location = New System.Drawing.Point(105, 51)
         Me.txt_pass.Name = "txt_pass"
-        Me.txt_pass.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
+        Me.txt_pass.PasswordChar = Global.Microsoft.VisualBasic.ChrW(9679)
         Me.txt_pass.Size = New System.Drawing.Size(177, 20)
         Me.txt_pass.TabIndex = 1
         Me.txt_pass.Text = Global.WiFi_Hotspot_Assistant.My.MySettings.Default.pass
